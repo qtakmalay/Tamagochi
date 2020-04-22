@@ -31,7 +31,7 @@ public class Main extends Application {
         grid.getChildren().add(name);
 
 
-
+        System.out.println("HOCHU COMMIT");
 
         primaryStage.show();
     }
